@@ -15,6 +15,7 @@ namespace StackAndQueue
            this.next = null; //for not taking garbage value
            this.data = data;
         }
+    
     }
 }
 
